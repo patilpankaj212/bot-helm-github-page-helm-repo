@@ -1,1 +1,1 @@
-This chart was created by Kompose
+Test chart for on-prem scanner.
