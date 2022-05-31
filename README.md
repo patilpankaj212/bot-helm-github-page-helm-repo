@@ -1,2 +1,2 @@
-# bot-helm-github-page-helm-repo
-bot-helm-github-page-helm-repo
+# Helm Charts repo for Tenable's on-prem-scanner
+Helm Charts repo for Tenable's on-prem-scanner

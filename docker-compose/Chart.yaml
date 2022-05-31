@@ -1,8 +1,0 @@
-name: bot-helm-charts
-description: A generated Helm Chart for docker-compose from Skippbox Kompose
-version: 1.0.1
-apiVersion: v1
-keywords:
-  - docker-compose
-sources: []
-home: "https://github.com/"
