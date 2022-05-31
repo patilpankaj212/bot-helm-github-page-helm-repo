@@ -1,0 +1,19 @@
+apiVersion: v1
+kind: Service
+metadata:
+  annotations:
+    kompose.cmd: kompose convert -c
+    kompose.version: 1.26.1 (a9d05d509)
+  creationTimestamp: null
+  labels:
+    io.kompose.service: siac-bot
+  name: siac-bot
+spec:
+  ports:
+    - name: "9020"
+      port: 9020
+      targetPort: 9020
+  selector:
+    io.kompose.service: siac-bot
+status:
+  loadBalancer: {}
